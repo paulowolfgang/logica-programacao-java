@@ -1,5 +1,5 @@
 
-public class Programa_04 {
+public class Program_04 {
 
 	public static void main(String[] args) {
 		System.out.println("Nome: Fulano de Tal");
