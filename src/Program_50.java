@@ -18,7 +18,7 @@ public class Program_50
         }
         else
         {
-            System.out.println("Salário reajustado: "+(salario + reajuste2));
+            System.out.println("Salário reajustado: " + (salario + reajuste2));
         }
     }
 }
