@@ -20,7 +20,7 @@ public class Program_55
                 System.out.println("Informe o segundo valor: ");
                 int valor2 = input.nextInt();
                 
-                System.out.println("Resultado: " + (valor1+valor2));
+                System.out.println("Resultado: " + (valor1 + valor2));
                 break;}
             case 2:{
                 System.out.println("Informe um valor: ");
